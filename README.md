@@ -1,4 +1,4 @@
-## My friends say I'm a cat so.. **_meow, world!_** 👋🐈
+### My friends say I'm a cat so.. **_meow, world!_** 👋🐈
 
 I'm Matthieu, I'm a french React front-end developer 👨‍💻. I usually work with React and nextjs, but I keep learning new things!
 
