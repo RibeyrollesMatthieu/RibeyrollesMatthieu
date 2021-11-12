@@ -8,9 +8,9 @@ ___
 
 Here are some informations you might want to know about my github profile.  
 
-[![RibeyrollesMatthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibeyrollesMatthieu&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/RibeyrollesMatthieu/)
+[![RibeyrollesMatthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibeyrollesMatthieu&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/RibeyrollesMatthieu/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibeyrollesMatthieu&layout=compact&theme=radica&langs_count=4?&hide=ocaml,c%2B%2B)](https://github.com/RibeyrollesMatthieu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibeyrollesMatthieu&cache_seconds=1800&layout=compact&theme=radica&langs_count=4?&hide=ocaml,c%2B%2B)](https://github.com/RibeyrollesMatthieu/)
 
 ___  
 
