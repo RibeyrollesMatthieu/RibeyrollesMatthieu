@@ -10,7 +10,7 @@ Here are some informations you might want to know about my github profile.
 
 [![RibeyrollesMatthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibeyrollesMatthieu&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/RibeyrollesMatthieu/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibeyrollesMatthieu&cache_seconds=1800&layout=compact&theme=radical&hide=cMake,makefile&langs_count=10)](https://github.com/RibeyrollesMatthieu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibeyrollesMatthieu&cache_seconds=1800&layout=compact&theme=radical&hide=cMake,makefile&langs_count=10&count_private=true)](https://github.com/RibeyrollesMatthieu/)
 
 ___  
 
