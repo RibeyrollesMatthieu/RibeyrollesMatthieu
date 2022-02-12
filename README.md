@@ -6,7 +6,7 @@ What to tell you..? I **love ❤️** animals (especially my pets, but don't tel
 
 ___  
 
-Here are some informations you might want to know about my github profile.  
+Here is some information you might want to know about my github profile.  
 
 [![RibeyrollesMatthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibeyrollesMatthieu&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/RibeyrollesMatthieu/)
 
