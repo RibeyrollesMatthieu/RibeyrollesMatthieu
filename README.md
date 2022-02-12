@@ -2,7 +2,7 @@
 
 I'm Matthieu, I'm a french React front-end developer 👨‍💻. I usually work with React and nextjs, but I keep learning new things!
 
-What to tell you..? I **love ❤️** animals (especially my pets, but don't tell them, I don't want them to get overconfident), creative things (such as drawing, puzzles or coding stuff obviously), music 🎹 and.. sport. Yeah, IT guy doing sport, pretty unusual isn't it ?
+What to tell you..? I **love ❤️** animals (especially my pets, but don't tell them, I don't want them to get overconfident), creative things (such as drawing, puzzles or coding stuff obviously), music 🎹 and.. sport.
 
 ___  
 
