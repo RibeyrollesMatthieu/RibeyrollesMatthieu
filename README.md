@@ -1,8 +1,8 @@
 ### My friends say I'm a cat so.. **_meow, world!_** 👋🐈
 
-I'm Matthieu, I'm a french React front-end developer 👨‍💻. I usually work with React and nextjs, but I keep learning new things!
+I'm Matthieu, I'm a french React front-end developer 👨‍💻. I usually work with React, NextJs and Scss, but I keep learning new things!
 
-What to tell you..? I **love ❤️** animals (especially my pets, but don't tell them, I don't want them to get overconfident), creative things (such as drawing, puzzles or coding stuff obviously), music 🎹 and.. sport.
+What to tell you..? I **love ❤️** animals (especially my pets, but don't tell them, I don't want them to get overconfident), drawing, puzzles, music 🎹 and sport.
 
 ___  
 
@@ -15,10 +15,7 @@ Here is some information you might want to know about my github profile.
 ___  
 
 And some useful links as well  
-- My [dev.page 🧑‍💻.](https://dev.page/itsmatthieu)   
 - My [discord 💬.](https://discord.com/users/396647922785320960/)  
 - My [linkedin 💼.](https://www.linkedin.com/in/matthieu-ribeyrolles-323106195/)
 
 ___  
-
-Time to go! If you want to get in touch with me, feel free to send me a meow-ssage, I'm always up for a talk 👋.
