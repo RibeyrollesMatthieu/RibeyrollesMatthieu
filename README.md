@@ -4,7 +4,7 @@
 ### 🙃 About Me:
 
 My friends say I'm a cat so.. **_meow, world!_** 👋🐈<br><br>I'm Matthieu, I'm a french React full-stack developer 👨‍💻. I usually work with React, NextJs and Scss, but I keep learning new things!<br>
-I'm currently still a student and I'm working at [AurelienLheureux](https://www.aurelienlheureux.com/).<br><br>When I'm not spending my time coding stuff, I like to exercise, play piano 🎹 or draw ✏️.<br>You can also find me petting my cat Helios 🐈.
+I'm currently still a student and I'm working at [Alixir](https://www.alixir.fr/).<br><br>When I'm not spending my time coding stuff, I like to exercise, play piano 🎹 or draw ✏️.<br>You can also find me petting my cat Helios 🐈.
 
 ___  
 
