@@ -7,7 +7,6 @@ My friends say I'm a cat so.. **_meow, world!_** 👋🐈<br><br>I'm Matthieu, I
 I'm currently still a student and I'm working at [Alixir](https://www.alixir.fr/).<br><br>When I'm not spending my time coding stuff, I like to exercise, play piano 🎹 or draw ✏️.<br>You can also find me petting my cat Helios 🐈.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibeyrollesMatthieu&cache_seconds=1800&layout=compact&theme=radical&hide=cMake,makefile&langs_count=10)](https://github.com/RibeyrollesMatthieu/)
-___  
 
 ### 💭 Feel free to get in touch:
 <br>
