@@ -6,24 +6,35 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)](#)
-
-# I Can Also Work With
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#) 
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)](#) 
 [![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white&style=for-the-badge)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)](#) 
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
+
+## I Can Also Work With
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) 
+[![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 <br>
 
-# 🙃 About Me:
+### Meow, world! 👋🐈
 
-My friends say I'm a cat so.. **_meow, world!_** 👋🐈<br><br>I'm Matthieu, I'm a french React full-stack developer 👨‍💻. I usually work with React, NextJs and Scss, but I keep learning new things!<br>
-When I'm not spending my time coding stuff, I like to exercise, play piano 🎹 or draw ✏️.<br>You can also find me petting my cat Helios 🐈.
+I'm Matthieu - a French full-stack developer passionate about building modern web experiences.
+My main playgrounds are React, Next.js, TypeScript, and shadcn/ui, but I’m always eager to explore new technologies and keep learning. :student:
 
-### 💭 Feel free to get in touch:
+When I’m not coding, you’ll probably find me:
+  - Exercising 🏃‍♂️
+  - Playing piano 🎹
+  - Drawing ✏️
+  - hanging out with my cat, Helios 🐈
+
+Let’s connect, collaborate, and create something awesome together!
+
+### 💭 Let's Connect!
+
+Feel free to reach out-whether you want to talk code, cats, or just say hi!
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-ribeyrolles) 
